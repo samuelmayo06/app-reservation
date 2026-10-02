@@ -1,4 +1,3 @@
-# app-reservation
 # Nom de l'application
 
 Projet conçu en équipe avec : [prénoms des coéquipiers]
